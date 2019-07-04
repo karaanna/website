@@ -1,0 +1,54 @@
+* {
+  font-size: 20px;
+  font-family: Helvetica;
+  /* color:  */
+  line-height: 1;
+  background-color: lightgrey;
+}
+head {
+
+}
+body {
+max-width: 750px;
+margin: 0 auto;
+}
+h1 {
+font-size: 56px;
+text-align: center;
+}
+h2 {
+
+}
+h3 {
+
+}
+p {
+
+}
+footer {
+
+}
+section {
+
+}
+.imgpg1 {
+  width: 250px;
+  height: 250px;
+}
+.intro {
+  font-size: 20px;
+  max-width: 200px;
+}
+.navanchor {
+  font-size: 30px;
+  font-decoration: underline;
+  color: black;
+  text-align: center;
+  margin: 10px;
+}
+.banner {
+  height: 350px;
+  background-image: url(images/samskate.jpg);
+  background-size: cover;
+  background-position: center;
+}
