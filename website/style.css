@@ -1,11 +1,13 @@
 * {
   font-size: 20px;
   font-family: Helvetica;
-  color: black;
+  /* color:  */
   line-height: 1;
   background-color: lightgrey;
 }
+head {
 
+}
 body {
 max-width: 750px;
 margin: 0 auto;
@@ -14,19 +16,21 @@ h1 {
 font-size: 56px;
 text-align: center;
 }
+h2 {
 
-h6 {
-font-size: 12px;
-text-align: right;
-text-decoration: lighter;
+}
+h3 {
+
 }
 p {
-font-size: 22px;
-}
-em {
-  font-size: 24px
-}
 
+}
+footer {
+
+}
+section {
+
+}
 .imgpg1 {
   width: 250px;
   height: 250px;
@@ -47,37 +51,4 @@ em {
   background-image: url(images/samskate.jpg);
   background-size: cover;
   background-position: center;
-}
-.float-image{
-  float: right;
-}
-.householdh2{
-  font-size: 26px;
-  text-align: center;
-}
-.kidsh2{
-  font-size: 26px;
-  text-align: center;
-}
-.multifooter {
-  font-size: 10px;
-  text-align: right;
-  color: black;
-  font-weight: lighter;
-}
-.column {
-  width: 50%;
-  float: left;
-}
-.stroller {
-  float: left;
-}
-.babyclothes {
-  float: right;
-}
-.crib {
-  float: left
-}
-.babybottle {
-  float: right
 }
